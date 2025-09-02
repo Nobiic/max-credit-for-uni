@@ -1,0 +1,117 @@
+[
+  {
+    "code": "course 1",
+    "group": "A",
+    "closed": false,
+    "credits": 4,
+    "times": [
+      {
+        "day": "sun",
+        "start": 11.5,
+        "end": 13.5
+      },
+      {
+        "day": "mon",
+        "start": 9.0,
+        "end": 10.0
+      },
+      {
+        "day": "mon",
+        "start": 11.5,
+        "end": 13.5
+      }
+    ]
+  },
+  {
+    "code": "course 1",
+    "group": "B",
+    "closed": false,
+    "credits": 4,
+    "times": [
+      {
+        "day": "sun",
+        "start": 11.5,
+        "end": 12.5
+      },
+      {
+        "day": "tue",
+        "start": 11.5,
+        "end": 13.5
+      },
+      {
+        "day": "thu",
+        "start": 11.5,
+        "end": 13.5
+      }
+    ]
+  },
+  {
+    "code": "course 2",
+    "group": "A",
+    "closed": false,
+    "credits": 3,
+    "times": [
+      {
+        "day": "mon",
+        "start": 11.5,
+        "end": 12.5
+      },
+      {
+        "day": "wed",
+        "start": 11.5,
+        "end": 12.5
+      },
+      {
+        "day": "thu",
+        "start": 8.5,
+        "end": 10.5
+      }
+    ]
+  },
+  {
+    "code": "course 3",
+    "group": "A",
+    "closed": true,
+    "credits": 2,
+    "times": [
+      {
+        "day": "sun",
+        "start": 14.5,
+        "end": 16.5
+      },
+      {
+        "day": "sun",
+        "start": 9.5,
+        "end": 10.5
+      },
+      {
+        "day": "tue",
+        "start": 9.5,
+        "end": 10.5
+      }
+    ]
+  },
+  {
+    "code": "course 3",
+    "group": "B",
+    "closed": true,
+    "credits": 3,
+    "times": [
+      {
+        "day": "mon",
+        "start": 11.5,
+        "end": 14.5
+      },
+      {
+        "day": "mon",
+        "start": 10.0,
+        "end": 11.0
+      },
+      {
+        "day": "wed",
+        "start": 10.0,
+        "end": 11.0
+      }
+    ]
+  }
+]

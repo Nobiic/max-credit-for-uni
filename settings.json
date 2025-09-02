@@ -1,0 +1,6 @@
+{
+  "maxOptions": 10,
+  "includeClosed": true,
+  "outputWithClosed": "uniminmaxWclosed.txt",
+  "outputWithoutClosed": "uniminmax.txt"
+}
